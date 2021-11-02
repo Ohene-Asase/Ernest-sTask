@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Ernest.Solution/1.0.0": {
+        "runtime": {
+          "Ernest.Solution.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ernest.Solution/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
